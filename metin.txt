@@ -1,5 +1,7 @@
 personel ekleme ekranı tasarımı
 
+bu satır yeni eklendi
+
 <div>
 	<h2>Bilge Adam</h2>
 </div>
