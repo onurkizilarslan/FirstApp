@@ -4,4 +4,5 @@ bu satır yeni eklendi
 
 <div>
 	<h2>Bilge Adam</h2>
+	Bu satır yeni eklendi...
 </div>
